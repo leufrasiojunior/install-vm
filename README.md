@@ -17,6 +17,6 @@ instala e configura uma rede bridge utilizando bash
 Para fazer o deploy desse projeto rode
 
 ```bash
-  curl | sudo bash
+  curl https://raw.githubusercontent.com/leufrasiojunior/install-vm/refs/heads/main/clean-install.sh | sudo bash
 ```
 
